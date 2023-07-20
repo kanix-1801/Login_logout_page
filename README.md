@@ -1,4 +1,5 @@
 # Login_logout_page
-![ss1](https://github.com/kanix-1801/Login_logout_page/assets/72912708/d87f1ac7-4ad1-4f77-875e-d3f793a10b69)
 
-![ss2](https://github.com/kanix-1801/Login_logout_page/assets/72912708/4c5e9b3b-5aeb-483c-ba3c-86e7d2dab0db)
+![ssA](https://github.com/kanix-1801/Login_logout_page/assets/72912708/d45b9a06-8d61-489e-a7e3-b83db2339860)
+![ssB](https://github.com/kanix-1801/Login_logout_page/assets/72912708/e3d7c641-6042-4e7b-9d60-a5fd7567939b)
+![ssC](https://github.com/kanix-1801/Login_logout_page/assets/72912708/ae1b0bc6-9fa0-4440-a57e-33fc80f7ebb4)
